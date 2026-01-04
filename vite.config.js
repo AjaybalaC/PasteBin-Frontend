@@ -7,7 +7,7 @@ export default defineConfig({
   preview: {
     host: true,
     allowedHosts: [
-      "pastebin-frontend-gn7h.onrender.com"
+      "https://pastebin-frontend-gn7h.onrender.com/"
     ]
   }
 });
