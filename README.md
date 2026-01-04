@@ -16,3 +16,12 @@ This is the frontend for the Pastebin-Lite application.
 ## Environment Variables
 
 Create a `.env` file in the frontend root:
+
+
+## Installation
+
+npm install
+
+## Run
+
+npm run dev
